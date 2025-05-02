@@ -1,0 +1,43 @@
+[0.007s] Invoking command in '/home/louise/Development/arduinobot_ws/build/examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/louise/Development/arduinobot_ws/src/examples -DCMAKE_INSTALL_PREFIX=/home/louise/Development/arduinobot_ws/install/examples
+[0.042s] -- The C compiler identification is GNU 11.4.0
+[0.080s] -- The CXX compiler identification is GNU 11.4.0
+[0.084s] -- Detecting C compiler ABI info
+[0.131s] -- Detecting C compiler ABI info - done
+[0.136s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.136s] -- Detecting C compile features
+[0.136s] -- Detecting C compile features - done
+[0.138s] -- Detecting CXX compiler ABI info
+[0.192s] -- Detecting CXX compiler ABI info - done
+[0.197s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.197s] -- Detecting CXX compile features
+[0.197s] -- Detecting CXX compile features - done
+[0.199s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.482s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.560s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[0.583s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.585s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.589s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.596s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.606s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.630s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.631s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.686s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.706s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.734s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.739s] -- Looking for pthread.h
+[0.788s] -- Looking for pthread.h - found
+[0.788s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.837s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.838s] -- Found Threads: TRUE  
+[0.871s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.913s] [31mCMake Error at /opt/ros/humble/share/ament_cmake_core/cmake/core/ament_package_xml.cmake:53 (message):
+[0.913s]   ament_package_xml() package name 'examples' in '/package.xml' does not
+[0.913s]   match current PROJECT_NAME 'arduinobot_description'.  You must call
+[0.913s]   project() with the same package name before.
+[0.913s] Call Stack (most recent call first):
+[0.913s]   /opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake:31 (ament_package_xml)
+[0.913s]   CMakeLists.txt:25 (ament_lint_auto_find_test_dependencies)
+[0.913s] 
+[0.913s] [0m
+[0.913s] -- Configuring incomplete, errors occurred!
+[0.913s] See also "/home/louise/Development/arduinobot_ws/build/examples/CMakeFiles/CMakeOutput.log".

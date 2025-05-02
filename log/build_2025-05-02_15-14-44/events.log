@@ -1,0 +1,51 @@
+[0.000000] (-) TimerEvent: {}
+[0.000139] (arduinobot_description) JobQueued: {'identifier': 'arduinobot_description', 'dependencies': OrderedDict()}
+[0.000163] (arduinobot_description) JobStarted: {'identifier': 'arduinobot_description'}
+[0.005512] (arduinobot_description) JobProgress: {'identifier': 'arduinobot_description', 'progress': 'cmake'}
+[0.006092] (arduinobot_description) JobProgress: {'identifier': 'arduinobot_description', 'progress': 'build'}
+[0.006617] (arduinobot_description) Command: {'cmd': ['/usr/bin/cmake', '--build', '/home/louise/Development/arduinobot_ws/build/arduinobot_description', '--', '-j8', '-l8'], 'cwd': '/home/louise/Development/arduinobot_ws/build/arduinobot_description', 'env': OrderedDict([('LESSOPEN', '| /usr/bin/lesspipe %s'), ('LANGUAGE', 'en_GB:en'), ('USER', 'louise'), ('XDG_SESSION_TYPE', 'x11'), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib'), ('HOME', '/home/louise'), ('DESKTOP_SESSION', 'ubuntu'), ('NVM_BIN', '/home/louise/.nvm/versions/node/v22.15.0/bin'), ('NVM_INC', '/home/louise/.nvm/versions/node/v22.15.0/include/node'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('DBUS_STARTER_BUS_TYPE', 'session'), ('SYSTEMD_EXEC_PID', '74017'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus,guid=66af37c0355f5526fb3157d86814c51c'), ('COLORTERM', 'truecolor'), ('NVM_DIR', '/home/louise/.nvm'), ('ROS_DISTRO', 'humble'), ('GTK_IM_MODULE', 'ibus'), ('LOGNAME', 'louise'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_SESSION_CLASS', 'user'), ('USERNAME', 'louise'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/home/louise/.nvm/versions/node/v22.15.0/bin:/opt/ros/humble/bin:/home/louise/.local/bin:/home/louise/.local/bin:/home/louise/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin'), ('SESSION_MANAGER', 'local/louise-ZenBook-UX435EG-UX435EG:@/tmp/.ICE-unix/74017,unix/louise-ZenBook-UX435EG-UX435EG:/tmp/.ICE-unix/74017'), ('XDG_MENU_PREFIX', 'gnome-'), ('GNOME_TERMINAL_SCREEN', '/org/gnome/Terminal/screen/d5ba5bc6_9529_4874_8447_f9ced2e267a4'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('DISPLAY', ':1'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('GNOME_TERMINAL_SERVICE', ':1.134'), ('SSH_AGENT_LAUNCHER', 'gnome-keyring'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('AMENT_PREFIX_PATH', '/opt/ros/humble'), ('SHELL', '/bin/bash'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/louise/Development/arduinobot_ws/build/arduinobot_description'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('NVM_CD_FLAGS', ''), ('DBUS_STARTER_ADDRESS', 'unix:path=/run/user/1000/bus,guid=66af37c0355f5526fb3157d86814c51c'), ('XDG_DATA_DIRS', '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages'), ('COLCON', '1'), ('VTE_VERSION', '6800'), ('CMAKE_PREFIX_PATH', '/opt/ros/humble')]), 'shell': False}
+[0.039630] (arduinobot_description) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)\n'}
+[0.099386] (-) TimerEvent: {}
+[0.138276] (arduinobot_description) StdoutLine: {'line': b'-- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)\n'}
+[0.174490] (arduinobot_description) StdoutLine: {'line': b'-- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)\n'}
+[0.178083] (arduinobot_description) StdoutLine: {'line': b'-- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)\n'}
+[0.184372] (arduinobot_description) StdoutLine: {'line': b'-- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)\n'}
+[0.193962] (arduinobot_description) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.199488] (-) TimerEvent: {}
+[0.208269] (arduinobot_description) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.244676] (arduinobot_description) StdoutLine: {'line': b'-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)\n'}
+[0.247701] (arduinobot_description) StdoutLine: {'line': b'-- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)\n'}
+[0.299598] (-) TimerEvent: {}
+[0.311709] (arduinobot_description) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  \n'}
+[0.331797] (arduinobot_description) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/humble/include  \n'}
+[0.358072] (arduinobot_description) StdoutLine: {'line': b"-- Using RMW implementation 'rmw_fastrtps_cpp' as default\n"}
+[0.365983] (arduinobot_description) StdoutLine: {'line': b'-- Looking for pthread.h\n'}
+[0.399706] (-) TimerEvent: {}
+[0.451015] (arduinobot_description) StdoutLine: {'line': b'-- Looking for pthread.h - found\n'}
+[0.451326] (arduinobot_description) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD\n'}
+[0.499826] (-) TimerEvent: {}
+[0.505052] (arduinobot_description) StdoutLine: {'line': b'-- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success\n'}
+[0.505877] (arduinobot_description) StdoutLine: {'line': b'-- Found Threads: TRUE  \n'}
+[0.550752] (arduinobot_description) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)\n'}
+[0.599916] (-) TimerEvent: {}
+[0.604151] (arduinobot_description) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[0.605244] (arduinobot_description) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[0.606545] (arduinobot_description) StdoutLine: {'line': b'-- Configuring done\n'}
+[0.608248] (arduinobot_description) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:18 (add_executable):\n'}
+[0.608370] (arduinobot_description) StderrLine: {'line': b'  Cannot find source file:\n'}
+[0.608420] (arduinobot_description) StderrLine: {'line': b'\n'}
+[0.608461] (arduinobot_description) StderrLine: {'line': b'    src/simple_parameter.cpp\n'}
+[0.608495] (arduinobot_description) StderrLine: {'line': b'\n'}
+[0.608536] (arduinobot_description) StderrLine: {'line': b'  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .mpp .m .M .mm .ixx .cppm .h\n'}
+[0.608572] (arduinobot_description) StderrLine: {'line': b'  .hh .h++ .hm .hpp .hxx .in .txx .f .F .for .f77 .f90 .f95 .f03 .hip .ispc\n'}
+[0.608606] (arduinobot_description) StderrLine: {'line': b'\n'}
+[0.608639] (arduinobot_description) StderrLine: {'line': b'\x1b[0m\n'}
+[0.609189] (arduinobot_description) StderrLine: {'line': b'\x1b[31mCMake Error at CMakeLists.txt:18 (add_executable):\n'}
+[0.609250] (arduinobot_description) StderrLine: {'line': b'  No SOURCES given to target: simple_parameter\n'}
+[0.609287] (arduinobot_description) StderrLine: {'line': b'\n'}
+[0.609321] (arduinobot_description) StderrLine: {'line': b'\x1b[0m\n'}
+[0.609354] (arduinobot_description) StderrLine: {'line': b'\x1b[0mCMake Generate step failed.  Build files cannot be regenerated correctly.\x1b[0m\n'}
+[0.614065] (arduinobot_description) StderrLine: {'line': b'gmake: *** [Makefile:226: cmake_check_build_system] Error 1\n'}
+[0.615652] (arduinobot_description) CommandEnded: {'returncode': 2}
+[0.624923] (arduinobot_description) JobEnded: {'identifier': 'arduinobot_description', 'rc': 2}
+[0.635331] (-) EventReactorShutdown: {}

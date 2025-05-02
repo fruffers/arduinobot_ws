@@ -1,0 +1,1 @@
+Invoking command in '/home/louise/Development/arduinobot_ws/build/examples': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/louise/Development/arduinobot_ws/src/examples -DCMAKE_INSTALL_PREFIX=/home/louise/Development/arduinobot_ws/install/examples

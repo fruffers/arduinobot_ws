@@ -1,0 +1,16 @@
+/home/louise/Development/arduinobot_ws/install/examples/lib/examples/simple_parameter
+/home/louise/Development/arduinobot_ws/install/examples/share/ament_index/resource_index/package_run_dependencies/examples
+/home/louise/Development/arduinobot_ws/install/examples/share/ament_index/resource_index/parent_prefix_path/examples
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/environment/ament_prefix_path.sh
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/environment/ament_prefix_path.dsv
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/environment/path.sh
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/environment/path.dsv
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/local_setup.bash
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/local_setup.sh
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/local_setup.zsh
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/local_setup.dsv
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/package.dsv
+/home/louise/Development/arduinobot_ws/install/examples/share/ament_index/resource_index/packages/examples
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/cmake/examplesConfig.cmake
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/cmake/examplesConfig-version.cmake
+/home/louise/Development/arduinobot_ws/install/examples/share/examples/package.xml
