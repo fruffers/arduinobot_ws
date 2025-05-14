@@ -12,6 +12,8 @@
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/vertical_drive_arm.STL
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/claw_support.STL
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/urdf/arduinobot.urdf.xacro
+/home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/launch/display.launch.py
+/home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/rviz/display.rviz
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/package_run_dependencies/arduinobot_description
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/ament_index/resource_index/parent_prefix_path/arduinobot_description
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/environment/ament_prefix_path.sh
