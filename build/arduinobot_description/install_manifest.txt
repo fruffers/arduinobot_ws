@@ -4,6 +4,7 @@
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/left_finger.STL
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/basement.STL
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/plate.STL
+/home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/pi_camera.STL
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/round_plate.STL
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/link.STL
 /home/louise/Development/arduinobot_ws/install/arduinobot_description/share/arduinobot_description/meshes/base_plate.STL

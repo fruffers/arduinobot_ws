@@ -1,0 +1,22 @@
+[0.008s] Invoking command in '/home/louise/Development/arduinobot_ws/build/examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/louise/Development/arduinobot_ws/build/examples -- -j8 -l8
+[0.042s] [100%] Built target simple_parameter
+[0.055s] Invoked command in '/home/louise/Development/arduinobot_ws/build/examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/louise/Development/arduinobot_ws/build/examples -- -j8 -l8
+[0.056s] Invoking command in '/home/louise/Development/arduinobot_ws/build/examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/louise/Development/arduinobot_ws/build/examples
+[0.060s] -- Install configuration: ""
+[0.060s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/lib/examples/simple_parameter
+[0.060s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/ament_index/resource_index/package_run_dependencies/examples
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/ament_index/resource_index/parent_prefix_path/examples
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/environment/ament_prefix_path.sh
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/environment/ament_prefix_path.dsv
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/environment/path.sh
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/environment/path.dsv
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/local_setup.bash
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/local_setup.sh
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/local_setup.zsh
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/local_setup.dsv
+[0.061s] -- Installing: /home/louise/Development/arduinobot_ws/install/examples/share/examples/package.dsv
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/ament_index/resource_index/packages/examples
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/cmake/examplesConfig.cmake
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/cmake/examplesConfig-version.cmake
+[0.061s] -- Up-to-date: /home/louise/Development/arduinobot_ws/install/examples/share/examples/package.xml
+[0.062s] Invoked command in '/home/louise/Development/arduinobot_ws/build/examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/louise/Development/arduinobot_ws/build/examples

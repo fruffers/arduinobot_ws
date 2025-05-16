@@ -1,0 +1,4 @@
+Invoking command in '/home/louise/Development/arduinobot_ws/build/examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/louise/Development/arduinobot_ws/build/examples -- -j8 -l8
+Invoked command in '/home/louise/Development/arduinobot_ws/build/examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/louise/Development/arduinobot_ws/build/examples -- -j8 -l8
+Invoking command in '/home/louise/Development/arduinobot_ws/build/examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/louise/Development/arduinobot_ws/build/examples
+Invoked command in '/home/louise/Development/arduinobot_ws/build/examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/louise/Development/arduinobot_ws/build/examples
